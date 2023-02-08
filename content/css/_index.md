@@ -3,4 +3,4 @@ title = "Css"
 weight = 3
 +++
 
-Lorem Ipsum.
+In this chapter we would talking about CSS.

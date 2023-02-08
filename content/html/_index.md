@@ -3,4 +3,4 @@ title = "Html"
 weight = 2
 +++
 
-Lorem Ipsum.
+In this chapter we would talking about HTML.

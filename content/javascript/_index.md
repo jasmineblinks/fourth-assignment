@@ -3,4 +3,4 @@ title = "Javascript"
 weight = 4
 +++
 
-Lorem Ipsum.
+In this chapter we would talking about Javascript.
