@@ -1,12 +1,11 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'hugo-theme-relearn'
 [params]
   disableExplicitIndexURLs = true
 [outputs]
 home = [ "HTML", "RSS", "PRINT", "SEARCH", "SEARCHPAGE"]
 section = ["HTML", "RSS", "PRINT"]
   page = ["HTML", "RSS", "PRINT"]
-  themesDir = "themes"
+  theme = 'hugo-theme-relearn'
 
