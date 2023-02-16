@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Css on My New Hugo Site</title><link>/css/index.html</link><description>Recent content in Css on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/css/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>/css/introduction/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/css/introduction/index.html</guid><description>Lorem Ipsum.</description></item><item><title>CSS Syntax</title><link>/css/syntax/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/css/syntax/index.html</guid><description>Lorem Ipsum.</description></item><item><title>CSS Inclusion</title><link>/css/inclusion/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/css/inclusion/index.html</guid><description>Lorem Ipsum.</description></item><item><title>Colors</title><link>/css/colors/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/css/colors/index.html</guid><description>Lorem Ipsum.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on My New Hugo Site</title>
+    <link>/css/index.html</link>
+    <description>Recent content in Css on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>/css/introduction/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/css/introduction/index.html</guid>
+      <description>Lorem Ipsum.</description>
+    </item>
+    <item>
+      <title>CSS Syntax</title>
+      <link>/css/syntax/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/css/syntax/index.html</guid>
+      <description>Lorem Ipsum.</description>
+    </item>
+    <item>
+      <title>CSS Inclusion</title>
+      <link>/css/inclusion/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/css/inclusion/index.html</guid>
+      <description>Lorem Ipsum.</description>
+    </item>
+    <item>
+      <title>Colors</title>
+      <link>/css/colors/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/css/colors/index.html</guid>
+      <description>Lorem Ipsum.</description>
+    </item>
+  </channel>
+</rss>
