@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/css/introduction/index.html</loc>
+    <loc>http://example.org/css/introduction/index.html</loc>
   </url>
   <url>
-    <loc>/html/introduction/index.html</loc>
+    <loc>http://example.org/html/introduction/index.html</loc>
   </url>
   <url>
-    <loc>/javascript/introduction/index.html</loc>
+    <loc>http://example.org/javascript/introduction/index.html</loc>
   </url>
   <url>
-    <loc>/css/syntax/index.html</loc>
+    <loc>http://example.org/css/syntax/index.html</loc>
   </url>
   <url>
-    <loc>/html/index.html</loc>
+    <loc>http://example.org/html/index.html</loc>
   </url>
   <url>
-    <loc>/javascript/syntax/index.html</loc>
+    <loc>http://example.org/javascript/syntax/index.html</loc>
   </url>
   <url>
-    <loc>/html/why/index.html</loc>
+    <loc>http://example.org/html/why/index.html</loc>
   </url>
   <url>
-    <loc>/css/index.html</loc>
+    <loc>http://example.org/css/index.html</loc>
   </url>
   <url>
-    <loc>/css/inclusion/index.html</loc>
+    <loc>http://example.org/css/inclusion/index.html</loc>
   </url>
   <url>
-    <loc>/html/setup/index.html</loc>
+    <loc>http://example.org/html/setup/index.html</loc>
   </url>
   <url>
-    <loc>/javascript/placement/index.html</loc>
+    <loc>http://example.org/javascript/placement/index.html</loc>
   </url>
   <url>
-    <loc>/css/colors/index.html</loc>
+    <loc>http://example.org/css/colors/index.html</loc>
   </url>
   <url>
-    <loc>/html/helloworld/index.html</loc>
+    <loc>http://example.org/html/helloworld/index.html</loc>
   </url>
   <url>
-    <loc>/javascript/index.html</loc>
+    <loc>http://example.org/javascript/index.html</loc>
   </url>
   <url>
-    <loc>/javascript/variables/index.html</loc>
+    <loc>http://example.org/javascript/variables/index.html</loc>
   </url>
   <url>
-    <loc>/javascript/operators/index.html</loc>
+    <loc>http://example.org/javascript/operators/index.html</loc>
   </url>
   <url>
-    <loc>/categories/index.html</loc>
+    <loc>http://example.org/categories/index.html</loc>
   </url>
   <url>
-    <loc>/tags/index.html</loc>
+    <loc>http://example.org/tags/index.html</loc>
   </url>
 </urlset>

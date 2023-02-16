@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Html on My New Hugo Site</title>
-    <link>/html/index.html</link>
+    <link>http://example.org/html/index.html</link>
     <description>Recent content in Html on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/html/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://example.org/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>/html/introduction/index.html</link>
+      <link>http://example.org/html/introduction/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/html/introduction/index.html</guid>
+      <guid>http://example.org/html/introduction/index.html</guid>
       <description>HTML is a shortened form for hypertext markup language. Its purpose is to structure and organize your website. It is the foundation of your website. It is made up of several elements or tags, that define the various parts of the page, such as headings, paragraphs, and images. To create a complete webpage, HTML is combined with other technologies such as Cascading Style Sheets (CSS) and JavaScript. Tim Berners-Lee created HTML in 1991 with the release of version 1.</description>
     </item>
     <item>
       <title>Why learn HTML</title>
-      <link>/html/why/index.html</link>
+      <link>http://example.org/html/why/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/html/why/index.html</guid>
+      <guid>http://example.org/html/why/index.html</guid>
       <description>This is why you should learn HTML:
 HTML is the building block of the web. It is the most fundamental language for creating websites. It provides the structure and content that makes up a website. Learning HTML is essential for anyone who wants to create and maintain a website, including web developers, marketers, content creators, and website owners. HTML also provides a basis for more advanced web technologies, such as CSS and JavaScript.</description>
     </item>
     <item>
       <title>HTML Setup</title>
-      <link>/html/setup/index.html</link>
+      <link>http://example.org/html/setup/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/html/setup/index.html</guid>
+      <guid>http://example.org/html/setup/index.html</guid>
       <description>Before you begin writing HTML code, you must first set up your environment. You will use a text editor to achieve this. A text editor is used to create HTML code and, in some cases, more advanced features that allow developers to effectively create web applications. There are several editors available for writing HTML code. Here are a few examples:
 Visual Studio Code Visual Studio Code is a free source code editor developed by Microsoft for Windows, Linux, and macOS.</description>
     </item>
     <item>
       <title>Helloworld</title>
-      <link>/html/helloworld/index.html</link>
+      <link>http://example.org/html/helloworld/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/html/helloworld/index.html</guid>
+      <guid>http://example.org/html/helloworld/index.html</guid>
       <description>Lorem Ipsum.</description>
     </item>
   </channel>
