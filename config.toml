@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://abcofwebdev.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-theme-relearn'
