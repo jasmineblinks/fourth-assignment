@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Html on My New Hugo Site</title>
+    <title>Html on My Fourth Assignment</title>
     <link>http://example.org/html/index.html</link>
-    <description>Recent content in Html on My New Hugo Site</description>
+    <description>Recent content in Html on My Fourth Assignment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://example.org/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -11,7 +11,8 @@
       <link>http://example.org/html/introduction/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/html/introduction/index.html</guid>
-      <description>HTML is a shortened form for hypertext markup language. Its purpose is to structure and organize your website. It is the foundation of your website. It is made up of several elements or tags, that define the various parts of the page, such as headings, paragraphs, and images. To create a complete webpage, HTML is combined with other technologies such as Cascading Style Sheets (CSS) and JavaScript. Tim Berners-Lee created HTML in 1991 with the release of version 1.</description>
+      <description>HTML (Hypertext Markup Language) is the standard language used for creating web pages. It&amp;rsquo;s a set of instructions that tell web browsers how to display the content of a website, such as text, images, and videos. To explain HTML using a building as an example, we can think of a building as a web page and HTML as the blueprint that outlines the structure and content of the building.
+Just as a blueprint defines the different elements of a building, such as the rooms, walls, and doors, HTML defines the different components of a web page, such as paragraphs, headings, and images.</description>
     </item>
     <item>
       <title>Why learn HTML</title>

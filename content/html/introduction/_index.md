@@ -3,6 +3,7 @@ title = "Introduction"
 weight = 1
 +++
 
+
 HTML (Hypertext Markup Language) is the standard language used for creating web pages. It's a set of instructions that tell web browsers how to display the content of a website, such as text, images, and videos. To explain HTML using a building as an example, we can think of a building as a web page and HTML as the blueprint that outlines the structure and content of the building.
 
 Just as a blueprint defines the different elements of a building, such as the rooms, walls, and doors, HTML defines the different components of a web page, such as paragraphs, headings, and images. Just as a blueprint provides specific instructions for the construction of a building, HTML provides specific instructions for the rendering of a web page.

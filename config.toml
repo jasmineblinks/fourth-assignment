@@ -1,3 +1,16 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
+canonifyURLs = true
+relativeURLs = true
 title = 'My Fourth Assignment'
+
+[params]
+  # Change default color scheme with a variant one.
+  themeVariant = [ "relearn-light", "relearn-dark" ,"learn", "neon","red","blue","green"  ]
+ # Disable search function. It will hide search bar
+  disableSearch = false
+  # Disable search in hidden pages, otherwise they will be shown in search box
+  disableSearchHiddenPages = false
+
+  [outputs]
+  home = ["HTML", "RSS", "JSON"]
