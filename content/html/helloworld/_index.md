@@ -3,4 +3,4 @@ title = "Helloworld"
 weight = 4
 +++
 
-Lorem Ipsum.
+Welcome to the HTML course.

@@ -14,3 +14,5 @@ title = 'My Fourth Assignment'
 
   [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+  
