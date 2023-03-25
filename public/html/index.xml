@@ -35,7 +35,7 @@ Visual Studio Code Visual Studio Code is a free source code editor developed by 
       <link>http://example.org/html/helloworld/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/html/helloworld/index.html</guid>
-      <description>Lorem Ipsum.</description>
+      <description>Welcome to the HTML course.</description>
     </item>
   </channel>
 </rss>
