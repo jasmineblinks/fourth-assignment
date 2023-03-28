@@ -1,7 +1,5 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-canonifyURLs = true
-relativeURLs = true
 title = 'My Fourth Assignment'
 
 [params]

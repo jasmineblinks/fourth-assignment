@@ -28,7 +28,7 @@ HTML is the building block of the web. It is the most fundamental language for c
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/html/setup/index.html</guid>
       <description>Before you begin writing HTML code, you must first set up your environment. You will use a text editor to achieve this. A text editor is used to create HTML code and, in some cases, more advanced features that allow developers to effectively create web applications. There are several editors available for writing HTML code. Here are a few examples:
-Visual Studio Code Visual Studio Code is a free source code editor developed by Microsoft for Windows, Linux, and macOS.</description>
+Visual Studio Code Visual Studio Code by Microsoft is a free source code editor for Windows, Linux, and macOS.</description>
     </item>
     <item>
       <title>Helloworld</title>
@@ -36,6 +36,13 @@ Visual Studio Code Visual Studio Code is a free source code editor developed by 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/html/helloworld/index.html</guid>
       <description>Welcome to the HTML course.</description>
+    </item>
+    <item>
+      <title>Basic Tags</title>
+      <link>http://example.org/html/tags/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/html/tags/index.html</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
